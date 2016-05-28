@@ -10,13 +10,12 @@ https://facebook.github.io/react/docs/forms.html
 
 
 ##§ Make sure to run and have the following
-Webpack
-http://reactjs.net/guides/webpack.html
+1. Webpack http://reactjs.net/guides/webpack.html
 
-Rails 4.2.5
-MYSQL
-PUMA
-ELASTICSEARCH
-RUBY 2.2.3
-HAML
+1. Rails 4.2.5
+2. MYSQL
+3. PUMA
+3. ELASTICSEARCH
+4. RUBY 2.2.3
+5. HAML
 ## 
